@@ -11,6 +11,9 @@ nav ul li {
 }
 .banner{
     background-image: url(/images/Hero-bg.png);
+    max-width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .firstpera{
     text-align: center;
@@ -65,4 +68,10 @@ nav ul li {
    text-align: center;
    justify-content: center;
    justify-items: center;
+}
+.ftr{
+    display: flex;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
 }
