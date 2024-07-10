@@ -19,4 +19,14 @@ nav ul li {
     display: flex;
     align-items: center;
     justify-content: space-between;
+}  
+.thirdpart{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}  
+.fourthpart{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
