@@ -12,3 +12,11 @@ nav ul li {
 .banner{
     background-image: url(/images/Hero-bg.png);
 }
+.firstpera{
+    text-align: center;
+}
+.secondpart{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
