@@ -1,20 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
-*{
-    margin: 0px;
-    padding: 0px;
-}
-#hero{
-    height: 437px;
-    width: 1440px;
-    background-image: url("../assets/Hero-bg.png");
-    background-size: cover;
-    background-position: center;
+/* NAv Styles */
+nav{
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: space-between;
 }
-#hero .hero-content{
-    width: 669px;
-    
-
+nav ul li {
+    list-style: none;
+}
+.banner-content{
+    text-align: center;
+}
+.banner{
+    background-image: url(/images/Hero-bg.png);
 }
