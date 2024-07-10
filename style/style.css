@@ -1,4 +1,9 @@
 /* NAv Styles */
+.bodycontainer{
+    max-width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+}
 nav{
     display: flex;
     justify-content: space-between;
@@ -10,10 +15,9 @@ nav ul li {
     text-align: center;
 }
 .banner{
-    background-image: url(/images/Hero-bg.png);
-    max-width: 1140px;
-    margin-left: auto;
-    margin-right: auto;
+    background-image: url("../images/Hero-bg.png");
+   
+    
 }
 .firstpera{
     text-align: center;
@@ -64,10 +68,14 @@ nav ul li {
    
 }
 .needsupport{
-    background-image: url(/images/handshake.jpg);
+    background-image: url("../images/handshake.jpg");
+    background-position: center;
    text-align: center;
+   display: flex;
+   flex-direction: column;
    justify-content: center;
    justify-items: center;
+   height: 350px;
 }
 .ftr{
     display: flex;
