@@ -30,3 +30,39 @@ nav ul li {
     align-items: center;
     justify-content: space-between;
 }
+.fifthpart{
+   text-align: center;
+   padding: 18px 35px;
+   margin-bottom: 20px;
+}
+.fifthpera{
+    text-align: center;
+}
+.sixthpera{
+    text-align: center;
+}
+.sixthpart{
+    display: flex;
+    gap: 24px;
+    justify-content: space-between;
+}
+.html{
+    background-color: #FF4C1E0D;
+
+}
+ 
+.css{
+    background-color: #004CE80D ;
+
+}
+
+.js{
+    background-color: #FFDF000D;
+   
+}
+.needsupport{
+    background-image: url(/images/handshake.jpg);
+   text-align: center;
+   justify-content: center;
+   justify-items: center;
+}
